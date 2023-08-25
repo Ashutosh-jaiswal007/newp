@@ -1,0 +1,11 @@
+.header-wrapper{
+
+  height: 100px;
+  width: 100%;
+  border: 1px solid black;
+  display: flex;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  background-color: white;
+}

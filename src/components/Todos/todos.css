@@ -1,0 +1,18 @@
+.todo-wrapper{
+  height: 80vh;
+  width:200px;
+  border: 1px solid black;
+  margin: 10px;
+}
+.Todo-list{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 40px;
+}
+.todoHeader{
+  position: fixed;
+  background-color: gray;
+  padding: 10px;
+  width: 180px;
+}

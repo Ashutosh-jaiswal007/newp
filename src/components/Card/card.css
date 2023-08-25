@@ -1,0 +1,20 @@
+.card-wrapper{
+  min-width: 180px;
+  border: 1px solid red;
+  display: flex;
+  align-items: center;
+  margin: 3px;
+  margin-bottom: 10px;
+
+
+}
+.card-Content{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.sub-heading{
+  margin-top: 5px;
+  display: flex;
+  justify-content: space-between;
+}
